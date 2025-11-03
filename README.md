@@ -1,4 +1,11 @@
-## Hi there 
+👋 Hi there! Welcome to my GitHub Profile
+
+I’m Olha, a Data Analyst in training with a passion for transforming data into insights that drive decisions.
+Currently based in Kyiv, Ukraine, I’m exploring the world of analytics — from SQL queries to data visualization and A/B testing.
+
+When I’m not working with data, you’ll likely find me reading, traveling, or diving into new movie genres. I love discovering how stories — whether told through books, films, or numbers — can reveal something deeper about the world.
+
+🎯 Explore my [Portfolio](https://github.com/OlhaHaidash/My-Portfolio) to see my projects, technical skills, certificates, and achievements — everything that reflects my journey into data.
 
 <!--
 **OlhaHaidash/OlhaHaidash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
